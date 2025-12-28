@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Output files (Users should generate these themselves)
+*.html
+
+# IDE settings
+.vscode/
+.idea/

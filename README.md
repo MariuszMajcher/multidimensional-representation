@@ -40,14 +40,6 @@ Unlike standard hypercubes (tesseracts) which can be visually cluttered, this en
     ```
 
 ---
-
-## 🚀 Quick Start
-
-You can run the engine directly to see a demo:
-
-```bash
-python hypercone_engine.py
-
 🧩 Code Breakdown
 Class: RecursiveHyperSpace
 
@@ -87,5 +79,13 @@ Batch processor for bulk data.
     Accepts a list of coordinate lists (e.g., [[x,y,z,d4], [x,y,z,d4,d5]]).
 
     Ideal for ingesting datasets from CSVs or Pandas DataFrames.
+---
+
+## 🚀 Quick Start
+
+You can run the engine directly to see a demo:
+
+```bash
+python hypercone_engine.py
 
 draw()

@@ -12,7 +12,7 @@ Unlike standard hypercubes (tesseracts) which can be visually cluttered, this en
 
 ## Screenshots
 
-![HyperCone Demo](Screenshot 2025-12-28 103951.png)
+![HyperCone Demo](Screenshot%202025-12-28%20103951.png)
 
 ---
 
